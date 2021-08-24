@@ -1,0 +1,20 @@
+<!-- esto es un comentario -->
+<!-- un comentario sirve como informacion para el programador (ustedes mismos u otros).
+todo lo que este dentro del comentario el navegador lo pasa por alto
+es solo informacion para ustedes -->
+<etiqueta atributo="valor de atributo">  contenido  </etiqueta>
+<!--doctype es una etiqueta que indica al navegador que el documento es una pagina web
+  creada en HTML version 5. HTML es Hyper Text Markup Language -->
+<!DOCTYPE html><!-- esta etiqueta es autocontenida -->
+<html lang="es"> <!-- esta etiqueta existe siempre en todos los documentos html
+      comienza al pricipio y finaliza al final del codgio de la pagina -->
+<head><!--esta etiqueta define informacion para navegador y no se muestra en la pantalla de usuario-->
+  <meta charset="UTF-8"> <!--define el juego de caracteres que utilizara la pagina -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title> <!-- es el nombre de la pagina se pone en la pestaña -->
+</head>
+<body> <!--ACA van todas las etiquetas y el contenido que el usuario ve -->
+
+</body>
+</html> <!-- este es el cierre de la etiqueta del principio -->
