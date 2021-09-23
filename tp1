@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Juegos preferidos</title>
+</head>
+<body>
+
+  <header>
+      <h1>The last Of Us Part II</h1>
+      <h3>El juego mas esperado en 2020</h3>
+      <img src="/home/estudiante/Documentos/camila4to/last-us-2_17.png" width="400">
+
+    </section>
+
+    <section class="">
+        <h2>The Last of Us ¿Es una obra maestra?</h2>
+        <article class="">
+            <img src="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2016/12/the-last-of-us-part-2-ellie.gif" alt="" width="450">
+            <p>“The Last of Us Part II es una obra maestra que merece ser parte de su predecesora”, afirma el veredicto de Jonathon Dornbush de IGN en una de las pocas y mejores reseñas que han surgido del esperado juego cuyo lanzamiento no sólo promete ser el mejor de junio sino del año, y posiblemente algo más grande. The Last of Us Part II era considerada una secuela un poco innecesaria por lo que su llegada tendría que representar un nivel adelante dentro de la evolución del juego y en efecto eso fue lo que pasó y los amantes de la franquicia no quedarán decepcionados. </p>
+        </article>
+
+        <section>
+
+            <table>
+                <tr>
+                    <th>personajes</th>
+                    <th>imagen</th>
+                </tr>
+                <tr>
+                    <td>Ellie</td>
+                    <td><img src="/home/estudiante/Documentos/camila4to/index.jpeg" alt="lotro" width="100">
+                  </tr>
+                  <tr>
+                    <td>Joel</td>
+                    <td><img src="/home/estudiante/Documentos/camila4to/ssss.jpeg" alt="lotro" width="100">
+    </section>
