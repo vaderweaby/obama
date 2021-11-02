@@ -1,0 +1,53 @@
+<!--Trabajo practico 2 -->
+<!--Crear un sitio web usando css externo -->
+<!--contenido:
+          header : elementos de cabecera como: titulo del sitio, una foto/logo, etc
+          nav: una barra de navegacion con los links a las paginas del sitio
+          section1: con algun titulo o texto sobre la seccion con dos articles.
+                  * cada article debe tener al menos un titulo, un texto y una imagen
+          section2: con algun titulo o texto sobre la seccion con dos articles.
+                  * cada article debe tener al menos un titulo, un texto y una imagen
+          aside:   algun contenido como imagen y texto con informacion complementaria al sitio
+          footer:  links de la pagina. links a redes sociales. lista con los integrantes del equipo
+                    * iconos a redes sociales con links-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Moskito site</title>
+  <link rel="stylesheet" href="css/tp2.css">
+</head>
+<body>
+  <header class="">
+
+  </header>
+  <nav>
+
+  </nav>
+  <section class="seccion1">
+    <article class="">
+
+    </article>
+    <article class="">
+
+    </article>
+  </section>
+
+  <section class="seccion2">
+    <article class="">
+
+    </article>
+    <article class="">
+
+    </article>
+  </section>
+
+  <aside class="">
+
+  </aside>
+  <footer>
+
+  </footer>
+</body>
